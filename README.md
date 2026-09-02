@@ -47,10 +47,20 @@ Sou **amigável, curiosa e colaborativa** — sempre aberta a colaborar em proje
 
 ---
 
-## 📊 GitHub
-- **Top Languages**
-- **GitHub Streak**
-- **GitHub Stats**
+## 📊 GitHub Stats
+
+<div
+
+  <!-- GitHub Stats -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=leaoduda1911-cyber&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaoduda1911-cyber&layout=compact&theme=radical" alt="Top Languages" />
+
+  <!-- GitHub Streak -->
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=leaoduda1911-cyber&theme=radical" alt="GitHub Streak" />
+
+</div>
 ---
 
 ## 🤝 Colaboração
