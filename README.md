@@ -44,8 +44,8 @@ Sou **amigável, curiosa e colaborativa** — sempre aberta a colaborar em proje
 
 ## 📌 Projetos em destaque
 
-### Projeto A — Página Web (Atividade de Front-End)
-🔗 https://github.com/leaoduda1911-cyber/front-end-pa-gina-web  
+### Projeto A 
+🔗 (https://leaoduda1911-cyber.github.io/PatinhasDeAmor/)  
 
 📄 **Descrição:** atividade de **front-end** com foco em **estrutura em HTML**, **estilos em CSS** e **boas práticas para web responsiva**.
 
