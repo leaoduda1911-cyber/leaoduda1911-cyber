@@ -86,7 +86,7 @@ Estou aberta a colaborar em projetos, trocar conhecimento e aprender com a comun
 
 
 
-- <img width="512" height="68" alt="google_workspace_2x" src="https://github.com/user-attachments/assets/db3cf7d8-9bb7-410d-b9d4-f7a3a6d64e25" />
+
 
 
         
