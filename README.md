@@ -81,7 +81,7 @@ Estou aberta a colaborar em projetos, trocar conhecimento e aprender com a comun
 
 ---
 
-## 🌐 Links
+## 🌐 Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-almeida-pereira-70a2a4361/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:leaoduda1911@gmail.com)
 
 
