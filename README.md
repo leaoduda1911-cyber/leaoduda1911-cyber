@@ -49,6 +49,13 @@ Sou **amigável, curiosa e colaborativa** — sempre aberta a colaborar em proje
 
 📄 **Descrição:** atividade de **front-end** com foco em **estrutura em HTML**, **estilos em CSS** e **boas práticas para web responsiva**.
 
+### Projeto B
+🔗 https://leaoduda1911-cyber.github.io/AT5---Front-End-e-Copilotagem-com-IA/
+
+**Descrição:** atividade de **front-end** com foco em **estrutura em HTML**, **estilos em CSS** e **boas práticas para web responsiva**.
+
+### Projeto C
+🔗https://leaoduda1911-cyber.github.io/Drogaria-Higashi/
 ---
 
 ## 📊 GitHub Stats
@@ -75,12 +82,12 @@ Estou aberta a colaborar em projetos, trocar conhecimento e aprender com a comun
 ---
 
 ## 🌐 Links
-- LinkedIn: https://www.linkedin.com/in/maria-eduarda-almeida-pereira-70a2a4361  
-- E-mail: leaoduda1911@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-almeida-pereira-70a2a4361/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:leaoduda1911@gmail.com)
+
+
 
 - <img width="512" height="68" alt="google_workspace_2x" src="https://github.com/user-attachments/assets/db3cf7d8-9bb7-410d-b9d4-f7a3a6d64e25" />
 
-![html web estrutura com style css](https://github.com/user-attachments/assets/60e070af-d089-4525-b859-04b84433864d)
 
         
 
